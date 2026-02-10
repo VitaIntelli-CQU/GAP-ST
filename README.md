@@ -40,4 +40,3 @@ Training GAP-ST with the following script:
 ```
 $ python train.py
 ```
-
